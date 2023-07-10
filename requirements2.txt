@@ -1,0 +1,4 @@
+torch
+torchvision==0.10.0
+torchaudio==0.9.0
+fastai==2.7.12
