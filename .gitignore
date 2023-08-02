@@ -2,4 +2,12 @@ dl_env/
 fastbook/
 personal_notes/images/
 personal_notes/flagged/
-personal_notes/personal_notes_obsidian/*.png
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+# Add more image file extensions here if needed (e.g., *.gif, *.bmp, etc.)
+
+# Except for the personal_notes/personal_notes_obsidian folder
+
+!personal_notes/personal_notes_obsidian/Class_5/*.png

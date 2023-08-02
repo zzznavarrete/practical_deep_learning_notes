@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Class_Notes.md",
+                "file": "Class_5/05_Class_Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Class_Notes.md",
+                "file": "Class_5/05_Class_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Class_Notes.md",
+                "file": "Class_5/05_Class_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Class_Notes.md"
+                "file": "Class_5/05_Class_Notes.md"
               }
             }
           }
@@ -148,16 +148,20 @@
   },
   "active": "6733ab288223d406",
   "lastOpenFiles": [
-    "Pasted image 20230711232921.png",
-    "Pasted image 20230711232726.png",
-    "Pasted image 20230711232507.png",
-    "Pasted image 20230711232249.png",
-    "Pasted image 20230711230754.png",
-    "Pasted image 20230711230109.png",
-    "Pasted image 20230711225848.png",
-    "Pasted image 20230711225759.png",
+    "Pasted image 20230801232314.png",
+    "Class_5/Pasted image 20230711225848.png",
+    "Class_5/05_Class_Notes.md",
+    "Class_5",
+    "Class_5/Pasted image 20230801225305.png",
+    "Class_5/Pasted image 20230801224008.png",
+    "Class_5/Pasted image 20230801221610.png",
+    "Class_5/Pasted image 20230801215414.png",
+    "Class_5/Pasted image 20230801215355.png",
+    "Class_5/Pasted image 20230801215337.png",
+    "Class_5/Pasted image 20230711232921.png",
+    "Class_5/Pasted image 20230711232726.png",
+    "Class_5/Pasted image 20230711232507.png",
     "04_class_notes.md",
-    "2023-07-11.md",
-    "05_Class_Notes.md"
+    "2023-07-11.md"
   ]
 }
