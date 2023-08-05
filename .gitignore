@@ -11,3 +11,6 @@ personal_notes/flagged/
 # Except for the personal_notes/personal_notes_obsidian folder
 
 !personal_notes/personal_notes_obsidian/Class_5/*.png
+!personal_notes/personal_notes_obsidian/Class_6/*.png
+
+personal_notes/personal_notes_obsidian/.obsidian/workspace.json
