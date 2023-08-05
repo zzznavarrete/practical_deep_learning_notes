@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e87ba693a19d924",
+        "id": "fc2a8b49bcb7a6fd",
         "type": "tabs",
         "children": [
           {
-            "id": "6733ab288223d406",
+            "id": "7637a0807517ca19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class_5/05_Class_Notes.md",
+                "file": "Class_6/Class 6 notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class_5/05_Class_Notes.md",
+                "file": "Class_6/Class 6 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class_5/05_Class_Notes.md",
+                "file": "Class_6/Class 6 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class_5/05_Class_Notes.md"
+                "file": "Class_6/Class 6 notes.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6733ab288223d406",
+  "active": "7637a0807517ca19",
   "lastOpenFiles": [
+    "Class_6/Pasted image 20230805124918.png",
+    "Class_6/Pasted image 20230805123535.png",
+    "Class_6/Pasted image 20230805123207.png",
+    "Class_6/Pasted image 20230805115303.png",
+    "Class_6/Pasted image 20230805113911.png",
     "Pasted image 20230801232314.png",
-    "Class_5/Pasted image 20230711225848.png",
+    "Class_6/Class 6 notes.md",
     "Class_5/05_Class_Notes.md",
+    "Class_6",
+    "Class_5/Pasted image 20230711225848.png",
     "Class_5",
     "Class_5/Pasted image 20230801225305.png",
     "Class_5/Pasted image 20230801224008.png",
     "Class_5/Pasted image 20230801221610.png",
     "Class_5/Pasted image 20230801215414.png",
-    "Class_5/Pasted image 20230801215355.png",
-    "Class_5/Pasted image 20230801215337.png",
-    "Class_5/Pasted image 20230711232921.png",
-    "Class_5/Pasted image 20230711232726.png",
-    "Class_5/Pasted image 20230711232507.png",
     "04_class_notes.md",
     "2023-07-11.md"
   ]
